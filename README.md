@@ -19,4 +19,9 @@ Internship Project @ quantum Analytics
 ## Overview of Dashboard Summary ![](Populous.png)
 
 
+# Region With The Most Division
+* The chart below reviews the region with the most division. 
+* from the dataset the most the region with the most division is South.
+* Second in line was midwest, followed by west and Northeast.
+## Overview of Dashboard Summary ![](REGION.png)
 

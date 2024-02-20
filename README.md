@@ -16,7 +16,7 @@ Internship Project @ quantum Analytics
 * from the dataset the most populous state is California.
 * Second in line was texas, followed by Newyork, florida and other state has show below in the chart
 * The chart equally indicates the lowest ranking states 
-## Overview of Dashboard Summary  ![](Census.png)
+## Overview of Dashboard Summary  ![](populous.png)
 
 
 

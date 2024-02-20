@@ -8,7 +8,7 @@ Internship Project @ quantum Analytics
 * The chart below reviews the state with the most county.
 * From the dataset it was deduced that Texa has the most county.
 * Virginia was the second in line followed by Georgia, Kentuchy, Missouri and other states as shown in the chart
-* ## Overview of Dashboard Summary  ![](Census1.png)
+* ## Overview of Dashboard Summary ![](Census1.png)
 
 
 # State With The Most Populous State
